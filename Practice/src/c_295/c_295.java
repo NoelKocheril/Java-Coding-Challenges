@@ -1,3 +1,4 @@
+package c_295;
 /*
 Pascal's triangle is a triangular array of integers constructed with the following formula:
 
